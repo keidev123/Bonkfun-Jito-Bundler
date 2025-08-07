@@ -72,4 +72,8 @@ For MEV bot customization, consulting, or private collaboration:
 **X (Twitter)**: [@XTruebliss](https://x.com/XTruebliss)
 **Discord**: [@trueb1iss](https://discord.com/users/1274339638668038187)
 
+### 👤 Author
+#### Twitter: [@KEI_NOVAK](https://x.com/kei_4650)   
+#### Telegram: [@KEI_NOVAK](https://t.me/Kei4650)   
+
 ---
